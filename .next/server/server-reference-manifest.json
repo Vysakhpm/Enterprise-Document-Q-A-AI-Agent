@@ -1,0 +1,72 @@
+{
+  "node": {
+    "0009463ff5d52b1f1e74f9c42b66594ed2f01d73f0": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVYSAKH%5C%5CDownloads%5C%5Cdocument-qa-agent%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%220009463ff5d52b1f1e74f9c42b66594ed2f01d73f0%22%2C%22exportedName%22%3A%22getDocuments%22%7D%2C%7B%22id%22%3A%22404d1786b6a52d1874d88af376402610aba27e8489%22%2C%22exportedName%22%3A%22askQuestion%22%7D%2C%7B%22id%22%3A%224052d139bb300c40c6c1885ce13a43fafe2ff29563%22%2C%22exportedName%22%3A%22uploadDocument%22%7D%2C%7B%22id%22%3A%224064a0c0de3e39f40c83656dff7abf6733a8883aa0%22%2C%22exportedName%22%3A%22searchArxiv%22%7D%2C%7B%22id%22%3A%2240f136761ed522d52a8fb2345ad99d93ff62a76d9a%22%2C%22exportedName%22%3A%22deleteDocument%22%7D%2C%7B%22id%22%3A%2240f7adb6dc84fc696ec398f77c0d22416def94653e%22%2C%22exportedName%22%3A%22importArxivPaper%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "404d1786b6a52d1874d88af376402610aba27e8489": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVYSAKH%5C%5CDownloads%5C%5Cdocument-qa-agent%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%220009463ff5d52b1f1e74f9c42b66594ed2f01d73f0%22%2C%22exportedName%22%3A%22getDocuments%22%7D%2C%7B%22id%22%3A%22404d1786b6a52d1874d88af376402610aba27e8489%22%2C%22exportedName%22%3A%22askQuestion%22%7D%2C%7B%22id%22%3A%224052d139bb300c40c6c1885ce13a43fafe2ff29563%22%2C%22exportedName%22%3A%22uploadDocument%22%7D%2C%7B%22id%22%3A%224064a0c0de3e39f40c83656dff7abf6733a8883aa0%22%2C%22exportedName%22%3A%22searchArxiv%22%7D%2C%7B%22id%22%3A%2240f136761ed522d52a8fb2345ad99d93ff62a76d9a%22%2C%22exportedName%22%3A%22deleteDocument%22%7D%2C%7B%22id%22%3A%2240f7adb6dc84fc696ec398f77c0d22416def94653e%22%2C%22exportedName%22%3A%22importArxivPaper%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "4052d139bb300c40c6c1885ce13a43fafe2ff29563": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVYSAKH%5C%5CDownloads%5C%5Cdocument-qa-agent%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%220009463ff5d52b1f1e74f9c42b66594ed2f01d73f0%22%2C%22exportedName%22%3A%22getDocuments%22%7D%2C%7B%22id%22%3A%22404d1786b6a52d1874d88af376402610aba27e8489%22%2C%22exportedName%22%3A%22askQuestion%22%7D%2C%7B%22id%22%3A%224052d139bb300c40c6c1885ce13a43fafe2ff29563%22%2C%22exportedName%22%3A%22uploadDocument%22%7D%2C%7B%22id%22%3A%224064a0c0de3e39f40c83656dff7abf6733a8883aa0%22%2C%22exportedName%22%3A%22searchArxiv%22%7D%2C%7B%22id%22%3A%2240f136761ed522d52a8fb2345ad99d93ff62a76d9a%22%2C%22exportedName%22%3A%22deleteDocument%22%7D%2C%7B%22id%22%3A%2240f7adb6dc84fc696ec398f77c0d22416def94653e%22%2C%22exportedName%22%3A%22importArxivPaper%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "4064a0c0de3e39f40c83656dff7abf6733a8883aa0": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVYSAKH%5C%5CDownloads%5C%5Cdocument-qa-agent%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%220009463ff5d52b1f1e74f9c42b66594ed2f01d73f0%22%2C%22exportedName%22%3A%22getDocuments%22%7D%2C%7B%22id%22%3A%22404d1786b6a52d1874d88af376402610aba27e8489%22%2C%22exportedName%22%3A%22askQuestion%22%7D%2C%7B%22id%22%3A%224052d139bb300c40c6c1885ce13a43fafe2ff29563%22%2C%22exportedName%22%3A%22uploadDocument%22%7D%2C%7B%22id%22%3A%224064a0c0de3e39f40c83656dff7abf6733a8883aa0%22%2C%22exportedName%22%3A%22searchArxiv%22%7D%2C%7B%22id%22%3A%2240f136761ed522d52a8fb2345ad99d93ff62a76d9a%22%2C%22exportedName%22%3A%22deleteDocument%22%7D%2C%7B%22id%22%3A%2240f7adb6dc84fc696ec398f77c0d22416def94653e%22%2C%22exportedName%22%3A%22importArxivPaper%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "40f136761ed522d52a8fb2345ad99d93ff62a76d9a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVYSAKH%5C%5CDownloads%5C%5Cdocument-qa-agent%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%220009463ff5d52b1f1e74f9c42b66594ed2f01d73f0%22%2C%22exportedName%22%3A%22getDocuments%22%7D%2C%7B%22id%22%3A%22404d1786b6a52d1874d88af376402610aba27e8489%22%2C%22exportedName%22%3A%22askQuestion%22%7D%2C%7B%22id%22%3A%224052d139bb300c40c6c1885ce13a43fafe2ff29563%22%2C%22exportedName%22%3A%22uploadDocument%22%7D%2C%7B%22id%22%3A%224064a0c0de3e39f40c83656dff7abf6733a8883aa0%22%2C%22exportedName%22%3A%22searchArxiv%22%7D%2C%7B%22id%22%3A%2240f136761ed522d52a8fb2345ad99d93ff62a76d9a%22%2C%22exportedName%22%3A%22deleteDocument%22%7D%2C%7B%22id%22%3A%2240f7adb6dc84fc696ec398f77c0d22416def94653e%22%2C%22exportedName%22%3A%22importArxivPaper%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "40f7adb6dc84fc696ec398f77c0d22416def94653e": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/.pnpm/next@15.2.4_react-dom@19.1.0_react@19.1.0__react@19.1.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CVYSAKH%5C%5CDownloads%5C%5Cdocument-qa-agent%5C%5Clib%5C%5Cactions.ts%22%2C%5B%7B%22id%22%3A%220009463ff5d52b1f1e74f9c42b66594ed2f01d73f0%22%2C%22exportedName%22%3A%22getDocuments%22%7D%2C%7B%22id%22%3A%22404d1786b6a52d1874d88af376402610aba27e8489%22%2C%22exportedName%22%3A%22askQuestion%22%7D%2C%7B%22id%22%3A%224052d139bb300c40c6c1885ce13a43fafe2ff29563%22%2C%22exportedName%22%3A%22uploadDocument%22%7D%2C%7B%22id%22%3A%224064a0c0de3e39f40c83656dff7abf6733a8883aa0%22%2C%22exportedName%22%3A%22searchArxiv%22%7D%2C%7B%22id%22%3A%2240f136761ed522d52a8fb2345ad99d93ff62a76d9a%22%2C%22exportedName%22%3A%22deleteDocument%22%7D%2C%7B%22id%22%3A%2240f7adb6dc84fc696ec398f77c0d22416def94653e%22%2C%22exportedName%22%3A%22importArxivPaper%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "7RX0sQfmb01vfZfCPYqhyjB2WNe3Z7DzOR4C4h5j/3k="
+}
